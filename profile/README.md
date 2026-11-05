@@ -20,13 +20,11 @@ An agent usually works blind: it edits code and hopes. **YADIEN closes the loop.
 
 | | |
 | --- | --- |
-| 🔌 **Bring your own agent** | The editor's Console runs Claude Code, Codex, or a custom command. No MCP needed. |
-| 👀 **Agents see the result** | They can look at the editor screen whenever they need to. |
-| 📍 **You point, it reads** | Mark a region in the editor. No more "look at this!" explanations. |
-| 🔊 **Agents work with sound** | They can generate sound effects and analyse audio using the engine. |
-| 📝 **Everything can be text** | Graphics drawn in code, sounds generated with Python, tuning in JSON. |
-| 🔓 **Free and open source** | MIT licensed, completely free. |
-| 🚀 **Lightweight** | The engine is around 30 MB, and all the tools combined around 150 MB. |
+| 🤖 **Agentic** | You design the game, and your agents build it. |
+| 🔓 **Open Source** | MIT licensed and completely free. |
+| 🎨 **No art needed to start** | Draw graphics in code and generate sounds with Python. |
+| 🚢 **Ready to ship** | Package a Windows build of your game, and only the sounds it uses go in. |
+
 
 ## 🌱 Start here
 
